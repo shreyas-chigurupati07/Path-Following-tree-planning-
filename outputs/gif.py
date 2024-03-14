@@ -3,7 +3,7 @@ import re
 import imageio
 
 # Set the directory where the images are located and the gif filename
-directory = "/home/ankit/Downloads/Tree-Planning-Through-The-Trees/p2a/outputs"
+directory = "/home/shreyas/Downloads/Tree-Planning-Through-The-Trees/p2a/outputs"
 gif_filename = "output.gif"
 
 # Define a regex pattern to extract timestamp from the filenames
